@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="center">🛠 Principais Tecnologias / Main Techonologies</h3>
+<h3 align="center">🛠 Principais Tecnologias / Main Technologies</h3>
 
 ###
 
