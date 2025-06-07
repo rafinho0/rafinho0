@@ -34,7 +34,7 @@
 
 <p align="left">Back-End Developer in training. <br>I am currently studying the Java language and the Spring Boot framework, focusing on programming fundamentals and Back-End development. <br>I also have some experience with Front-End development, as well as knowledge of SQL commands and Database Structure.</p>
 
-###
+---
 
 <h3 align="center">🛠 Principais Tecnologias / Main Techonologies</h3>
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="center">🔥   Meu Status / My Status:</h3>
+<h3 align="center">🔥    Meu Status / My Status:</h3>
 
 ###
 
